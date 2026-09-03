@@ -1,0 +1,10 @@
+{
+  "channel": "production",
+  "version": "0.0.0",
+  "minimumLauncherVersion": "1.0.0",
+  "packageUrl": "https://github.com/APSInteractive/PanelApp-Releases/releases/download/v0.0.0/DO-NOT-USE.zip",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "publishedAt": "",
+  "forceInstall": false,
+  "status": "inactive-placeholder"
+}
