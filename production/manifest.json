@@ -1,9 +1,9 @@
 {
   "channel": "production",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "minimumLauncherVersion": "1.0.0",
-  "packageUrl": "https://raw.githubusercontent.com/APSInteractive/PanelApp-Releases/main/production/PanelApp-5.7.0.zip",
-  "sha256": "FDCD4EB7853CC3A9C3F56E987985C0CBE668486900A197414601FD1187AB210C",
+  "packageUrl": "https://raw.githubusercontent.com/APSInteractive/PanelApp-Releases/main/production/PanelApp-5.7.1.zip",
+  "sha256": "88C78A4B789D16EDBEB194ACDB401093BDE567535677BCD3B2CD6299B4665FA2",
   "forceInstall": false,
-  "publishedAt": "2026-09-15T20:29:07Z"
+  "publishedAt": "2026-09-16T21:17:58Z"
 }
